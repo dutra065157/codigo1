@@ -1,0 +1,9 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+x = pd.read_excel(r'C:\Users\l\Documents\testou.xlsx')
+#esse bins=20  e a largura entre as tabelas#
+plt.pie(x['idade'],labels= x ['nomes'],autopct='%1.0f%%') #tipos de tabelas,plot, hist,pie#
+plt.show()
+
+#Esse labels=x  e pra coloca os nomes na tabela#
+#esse autopct= e as pocentages#
