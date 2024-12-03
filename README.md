@@ -1,2 +1,1 @@
-# codigo1
- meu primeiro codigo
+Este projeto explora a criação de gráficos de linha e dispersão personalizados utilizando as bibliotecas Python Matplotlib e Pandas. Através da análise de um conjunto de dados de vendas, busco visualizar tendências, identificar padrões e gerar insights valiosos para tomada de decisões estratégicas.
